@@ -1,0 +1,11 @@
+{
+	"name": "koala-framework/library-swfupload",
+	"description": "SWFUpload JavaScript Library",
+	"homepage": "http://code.google.com/p/swfupload/",
+	"license": "MIT",
+	"support": {
+	},
+    "require": {
+        "koala-framework/library-swfobject": "2.2"
+    }
+}
